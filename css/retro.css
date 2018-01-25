@@ -1,0 +1,53 @@
+body {
+  background-image: url("../img/background/vehicle.jpg");
+  background-attachment: fixed;
+}
+
+nav {
+  background-image: url("../img/logo.svg");
+  background-repeat: no-repeat;
+  background-color: transparent;
+
+}
+
+section {
+    background-color: #ffffff;
+}
+
+footer {
+  margin-top: 75vh;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+img {
+  height: 35px;
+  width: 35px;
+
+}
+
+.row {
+  background-color: #ffffff;
+  margin-top: 75vh;
+
+}
+
+.container {
+  color: #000000;
+  background-color: #ffffff;
+  
+}
+
+.page-footer{
+  background-color: #ffffff;
+}
+
+.footer-copyright {
+  background-color: #ffffff;
+
+}
+
+#nav-position{
+  float: right;
+  font-family: "https://fonts.google.com/specimen/Dosis?selection.family=Dosis";
+}
